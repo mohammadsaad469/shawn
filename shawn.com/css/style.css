@@ -1,0 +1,462 @@
+
+
+img {
+	width: 100%;
+}
+.ms-adit-1 {
+	padding-top: 16px;
+}
+ul {
+	display: flex;
+}
+ul li {
+	padding-left: 30px;
+	font-size: 15px;
+	list-style: none;
+  font-weight: 600;
+}
+ul li a {
+	text-decoration: none;
+	color: #000000;
+
+}
+ 
+ul li a:hover {
+	color: #e85d04;
+	transition: all 0.5s ease-in-out;
+  text-decoration-line: underline;
+} 
+
+.cntr-1 {
+  margin: 25px 0;
+}
+
+.ms-flex{
+	display: flex;
+}
+.col-md-3 h3{
+  font-size: 26px;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.col-md-3 i {
+  font-size: 30px;
+  color: #e85d04;
+  margin-right: 8px;
+  margin-top: 12px;
+  border-radius: 17%;
+}
+
+
+.home-page {
+  text-align: center;
+  padding-top: 295px;
+  padding-bottom: 250px;
+  background-image: url("http://localhost/shawn.com/img/banner-image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+
+}
+
+.home-page h1 {
+  font-size: 68px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.home-page .btn-danger {
+  border-radius: 45px;
+  background-color: #e85d04;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 39px;
+  padding: 16px 52px;
+}
+.btn-danger:hover {
+  color: #fff;
+  background-color: red !important;
+  border-color: red !important;
+  transition: 0.5s;
+}
+
+.fa.fa-long-arrow-right {
+  margin-left: 15px;
+}
+
+.sec-2 img {
+  width: 100%;
+    max-width: 400px;
+}
+
+.sec-2{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+
+.sec-2 .btn-danger {
+  border-radius: 45px;
+  background-color: #e85d04;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 39px;
+  padding: 16px 52px;
+
+}
+
+.sec-2 h4 {
+  font-size: 30px;
+  color: #4c4c4c;
+  font-weight: 600;
+  padding-top: 60px;
+}
+
+.sec-2 h4:after {
+  content: "";
+  width: 30%;
+  background: #e85d04;
+  height: 3px;
+  display: flex;
+  margin-top: -15px;
+  margin-left: 95px;
+
+}
+
+ 
+.sec-2 h2 {
+  font-size: 42px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+
+.sec-2 p {
+  padding-right: 100px;
+  font-size: 14px;
+}
+
+
+.sec-3 {
+  padding-bottom: 60px;
+  background-color: #d5d5d5;
+  padding-top: 90px;
+}
+.our-s h4 {
+  font-size: 42px;
+  font-weight: 600;
+  margin-bottom: -6px;
+}
+.os-border {
+  width: 100%;
+  max-width: 120px;
+}
+.our-s {
+  text-align: center;
+  padding-bottom: 54px;
+}
+
+.img-adit img {
+  width: 100%;
+  max-width: 62px;
+}
+
+.img-adit h4 {
+  font-weight: 600;
+  font-size: 22px;
+  padding-top: 20px;
+}
+
+.img-adit p {
+ font-size: 14px;
+}
+
+.img-adit {
+  background-color: #fff;
+  padding: 60px 28px;
+  border-radius: 12px;
+  width: 300px;
+}
+.img-adit:hover {
+  background: #e85d04;
+  color: #fff;
+  transition: 0.5s;
+}
+
+.img-adit a{
+   color:#e85d04;
+   text-decoration: none;
+}
+.img-adit a:hover {
+  background-color: red;
+  color: #fff;
+  padding:10px 20px;
+  border-radius: 10px;
+}
+
+.sec-3 .btn-danger {
+  border-radius: 45px;
+  background-color: #e85d04;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 39px;
+  padding: 16px 52px;
+
+}
+
+.sec-4 h4 {
+  font-size: 45px;
+  font-weight: 700;
+}
+.sec-4 .os-border {
+  width: 100%;
+  max-width: 138px;
+  padding-bottom: 40px;
+  padding-top: 12px;
+}
+
+.sec-4 {
+  padding-top: 100px;
+  padding-bottom: 80px;
+  background-image: url("http://localhost/shawn.com/img/testimonial-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  }
+
+.sec-4 .fa-quote-left {
+  padding-top: 14px;
+  color: #e85d04;
+  font-size: 28px;
+  display: block;
+  position: absolute;
+  }
+
+.sec-4 p {
+  display: block;
+  padding-left: 40px;
+  padding-top: 18px;
+  font-weight: 600;
+  max-width: 474px;
+  }
+
+.sec-4 .fa-user-circle {
+  color: #e85d04;
+  font-size: 60px;
+  padding-top: 20px;
+  padding-left: 32px;
+  } 
+
+.owl-prev {
+  position: absolute;
+  bottom: -16%;
+  left: 31%;}
+
+.owl-next {
+  position: absolute;
+  bottom: -16%;
+  left: 35%;
+}
+ .sec-4 span {
+  color: #e85d04;
+  font-size: 40px;
+  border: 1px solid #e85d04;
+  padding: 0px 26px 6px 22px;
+  border-radius: 30px;
+}
+sec-4 span:hover {
+  background: #fff;
+  color: #000;
+}
+.user-i {
+  display: inline-block;
+}
+
+.babita-adit {
+  display: inline-block;
+  position: absolute;
+  padding-top: 26px;
+  padding-left: 10px;
+}
+
+.babita-adit h5 {
+  font-weight: 600;
+  font-size: 18px;
+  
+}
+
+.babita-adit img {
+  width: 100%;
+  max-width: 100px;
+}
+
+.sec-6 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.sec-6-img1 img {
+  width: 100% !important;
+  height: 595px !important;
+}
+
+.form-bg {
+  background-image: url("http://localhost/shawn.com/img/contact-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 25px 32px !important;
+  margin-left: -79px;
+  margin-top: 71px !important;
+  max-width: 736px;
+  height: 524px;
+   } 
+
+ .form-bg img {
+   width: 100%;
+   max-width: 100px;
+   padding-bottom: 40px;
+ }
+
+.form-bg h2 {
+  color: #fff;
+  padding-bottom: 0px !important;
+}
+
+.form-bg button {
+  background-color: #fff;
+  color: #e76c1e;
+  border-radius: 36px;
+  padding: 18px 50px;
+  border: 2px solid #e76c1e;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 24px;
+}
+
+.form-bg button:hover {
+  border: 2px solid #fff;
+  background-color:#e86d1f;
+  color: #fff;
+}
+
+.form-control{
+    padding: 12px 14px !important; 
+}
+
+.sec-5 {
+  padding: 60px 0 80px;
+  background-color: #f6f6f6;
+}
+
+.sec-5 img{
+  max-width: 101px;
+}
+.sec-5 h4{
+  font-size: 40px;
+  font-weight: 600;
+
+}
+.sec-5-logo {
+  margin: 0 auto;
+  width: 100% !important;
+}
+
+.sec-footer {
+  background-image: url("http://localhost/shawn.com/img/footer-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 126px 0px 0px;
+  background-position: top;
+}
+
+.sec-f-g2 i {
+  font-size: 18px;
+  color: #fff;
+  margin-right: 16px;
+  margin-top: 50px;
+  border-radius: 24px;
+  background-color: #e85d04;
+  padding: 13px 15px;
+}
+
+.fa-facebook{
+  font-size: 18px ;
+  color: #fff;
+  margin-right: 16px;
+  margin-top: 50px;
+  border-radius: 24px;
+  background-color: #e85d04;
+  padding: 13px 18px !important;
+}
+
+.sec-f-g3 ul{
+  display: block;
+  line-height: 2;
+}
+
+.sec-f-g3 ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px;
+}
+
+.sec-f-g4 i {
+  font-size: 15px;
+}
+.sec-f-g4 p {
+  color: #fff;
+  font-size: 15px;
+}
+
+.sec-f-g3 ul li a:hover {
+  color: #e85d04;
+  transition: all 0.5s ease-in-out;
+  text-decoration-line: underline;
+} 
+
+span:hover {
+  background-color: red;
+  color: #fff;
+}
+
+.owl-theme .owl-nav [class*="owl-"]:hover {
+  background: none !important;
+  color: #FFF;
+  text-decoration: none;
+}
+
+
+
+
+ /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {...}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+
+.col-md-3.ms-flex {
+  display: none;
+}
+.shawn-logo {
+  width: 50% !important;
+}
+.ms-adit-1 {
+  width: 50% !important;
+}
+.navbar-light .navbar-toggler {
+  color: rgba(0, 0, 0, 0.55);
+  border-color: rgba(0, 0, 0, 0.1);
+  position: absolute;
+  right: 0%;
+}
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max -width: 1200px) {...} 
